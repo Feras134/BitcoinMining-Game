@@ -1,4 +1,4 @@
-// This is a program for the second homework of CSC489. Written by 	Feras Alnehabi ID:443101183
+// This is a program for the second homework of CSC489. Written by 	Feras Alnehabi 
 // No requirements to run the program except having JDK (Java development kit)
 public class Main {
     public static void main(String[] args) {
