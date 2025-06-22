@@ -1,5 +1,4 @@
-// This is a program for the second homework of CSC489. Written by 	Feras Alnehabi 
-// No requirements to run the program except having JDK (Java development kit) 
+
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.time.Instant;
