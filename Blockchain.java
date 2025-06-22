@@ -1,5 +1,4 @@
-// This is a program for the second homework of CSC489. Written by 	Feras Alnehabi 
-// No requirements to run the program except having JDK (Java development kit)
+
 public class Blockchain {
     private Block head; // The first block (Genesis Block)
     private Block tail; // The latest block (Last node in the linked list)
